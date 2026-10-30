@@ -1,0 +1,48 @@
+# Gradle
+.gradle/
+build/
+mcmodsrepo/
+
+# Runtime directories
+run/
+run-*/
+
+# Logs and Crash Reports
+logs/
+*.log
+crash-reports/
+hs_err_pid*
+
+# IDEs
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.metadata/
+bin/
+.settings/
+.classpath
+.project
+*.launch
+
+# Visual Studio Code & Editors
+.vscode/
+.history/
+*.swp
+*~
+
+# Operating System Files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Forge MDK changelog & temporary backup
+forge*changelog.txt
+.backup_template/
