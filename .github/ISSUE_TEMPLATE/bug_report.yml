@@ -1,0 +1,53 @@
+name: Bug report
+description: Report something that is not working.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Before opening a ticket, check if someone has already reported the same issue.
+  - type: input
+    id: minecraft
+    attributes:
+      label: Minecraft version
+      placeholder: "1.20.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: loader
+    attributes:
+      label: Mod loader
+      options:
+        - Forge
+        - Fabric
+        - NeoForge
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: mod_version
+    attributes:
+      label: Lunchtime Jobs version
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What happened?
+      description: Tell me what went wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can I reproduce it?
+      description: Steps to reproduce the issue.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Crash log or latest.log
+      description: Paste a link to the log if you have one.
+    validations:
+      required: false
