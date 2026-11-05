@@ -1,5 +1,27 @@
 # Lunchtime Jobs
 
+<p>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/miso-jobs-careers">
+    <img src="https://raw.githubusercontent.com/wtfyls/Lunchtime-Cozy-Create-Farming/main/assets/curseforgelarge.png" alt="Download on CurseForge" height="48">
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/68yhDdFpnx">
+    <img src="https://raw.githubusercontent.com/wtfyls/Lunchtime-Cozy-Create-Farming/main/assets/discordlarge.png" alt="Join the Lunchtime Discord" height="48">
+  </a>
+  &nbsp;
+  <a href="https://www.patreon.com/cw/Fierolam">
+    <img src="https://raw.githubusercontent.com/wtfyls/Lunchtime-Cozy-Create-Farming/main/assets/patreonlarge.png" alt="Support Lunchtime on Patreon" height="48">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/lunchbutt/">
+    <img src="https://raw.githubusercontent.com/wtfyls/Lunchtime-Cozy-Create-Farming/main/assets/instagramlarge.png" alt="Follow Lunchtime on Instagram" height="48">
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@lunchbutt">
+    <img src="https://raw.githubusercontent.com/wtfyls/Lunchtime-Cozy-Create-Farming/main/assets/tiktoklarge.png" alt="Lunchtime on TikTok" height="48">
+  </a>
+</p>
+
 A standalone Minecraft profession, leveling, and progression mod for Minecraft Forge 1.20.1.
 
 ## Project Specifications
