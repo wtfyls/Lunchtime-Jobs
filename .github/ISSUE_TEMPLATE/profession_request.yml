@@ -1,0 +1,26 @@
+name: Profession or perk suggestion
+description: Suggest a new profession, perk, or progression idea.
+title: "[Profession idea]: "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: profession
+    attributes:
+      label: Profession name
+      placeholder: "e.g. Explorer"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What should it do?
+      description: Describe the profession, its XP sources, or perks.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Anything else?
+      description: Add examples or details that might help.
+    validations:
+      required: false
