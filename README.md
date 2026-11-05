@@ -22,7 +22,9 @@
 
 <p><strong>Chef</strong> — earn progress from cooking food. Vanilla cooking is supported; some Farmer's Delight and Kaleidoscope cooking-station integrations are still being worked on.</p>
 
-<p>These are the professions with confirmed gameplay details at the moment. More professions are being added to the 23-job plan, and I'll update this list as each one is ready.</p>
+<p>Six of the 23 planned professions have been started in the current development build. Farmer and Rancher are confirmed working. Chef currently works with vanilla cooking; Farmer's Delight and Kaleidoscope cooking-station support still needs work.</p>
+
+<p>Other professions in the planned roster include Bartender, Winemaker, Miner and Lumberjack. I'll add their details here as their gameplay is ready.</p>
 
 <h3>How progression works</h3>
 <ul>
